@@ -1,5 +1,5 @@
-# quiz_app
-Simple quiz app (VueJs/Django)
+# Quiz App
+Simple quiz app (VueJs/Ts + Django)
 
 Login
 ![index](https://github.com/QlaVs/quiz_app/blob/main/context/index.png)
